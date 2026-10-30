@@ -1,0 +1,354 @@
+Student ID: Kethia Ngabire Kayigire
+Project: Dynamic Academic Performance and Risk Analysis Engine
+Custom Analysis: Academic Risk Index
+
+---------- MENU ----------
+ 1. Add student
+ 2. Display students
+ 3. Sort students
+ 4. Average grade
+ 5. Top student
+ 6. Search student
+ 7. Remove student
+ 8. Custom analysis (Risk Index)
+ 9. Summary report
+10. Exit
+Choose an option: 
+ID       Name                   Course              Grade
+--------------------------------------------------------
+1001     Alice Uwase            Math in Machine Learning  88.50
+1002     Brian Mugisha          Programming in C    45.00
+1003     Chloe Ingabire         Mobile Dev          72.00
+1004     David Habimana         Linear Algebra      28.50
+1005     Esther Mukamana        Web Development     91.00
+1006     Frank Niyonzima        Web Development     63.50
+1007     Grace Umutoni          Programming in C    55.00
+1008     Henry Nkurunziza       Software Engineering  39.00
+1009     Irene Uwimana          Web Development     77.50
+1010     Jean Bosco Kamanzi     Programming in C    66.00
+1011     Kevin Ishimwe          Linear Algebra      81.00
+1012     Linda Keza             Web Development     49.50
+Total: 12 students
+
+---------- MENU ----------
+ 1. Add student
+ 2. Display students
+ 3. Sort students
+ 4. Average grade
+ 5. Top student
+ 6. Search student
+ 7. Remove student
+ 8. Custom analysis (Risk Index)
+ 9. Summary report
+10. Exit
+Choose an option: 
+Enter student ID (1-99999): Error: ID 1001 already exists. Student not added.
+
+---------- MENU ----------
+ 1. Add student
+ 2. Display students
+ 3. Sort students
+ 4. Average grade
+ 5. Top student
+ 6. Search student
+ 7. Remove student
+ 8. Custom analysis (Risk Index)
+ 9. Summary report
+10. Exit
+Choose an option: 
+Enter student ID (1-99999): Enter full name: Enter course: Enter grade (0-100):   Invalid grade. It must be a number from 0 to 100.
+Enter grade (0-100):   Invalid grade. It must be a number from 0 to 100.
+Enter grade (0-100): Student added. The list now holds 13 students.
+
+---------- MENU ----------
+ 1. Add student
+ 2. Display students
+ 3. Sort students
+ 4. Average grade
+ 5. Top student
+ 6. Search student
+ 7. Remove student
+ 8. Custom analysis (Risk Index)
+ 9. Summary report
+10. Exit
+Choose an option: 
+ID       Name                   Course              Grade
+--------------------------------------------------------
+1001     Alice Uwase            Math in Machine Learning  88.50
+1002     Brian Mugisha          Programming in C    45.00
+1003     Chloe Ingabire         Mobile Dev          72.00
+1004     David Habimana         Linear Algebra      28.50
+1005     Esther Mukamana        Web Development     91.00
+1006     Frank Niyonzima        Web Development     63.50
+1007     Grace Umutoni          Programming in C    55.00
+1008     Henry Nkurunziza       Software Engineering  39.00
+1009     Irene Uwimana          Web Development     77.50
+1010     Jean Bosco Kamanzi     Programming in C    66.00
+1011     Kevin Ishimwe          Linear Algebra      81.00
+1012     Linda Keza             Web Development     49.50
+1013     Mia Uwera              Programming in C    58.00
+Total: 13 students
+
+---------- MENU ----------
+ 1. Add student
+ 2. Display students
+ 3. Sort students
+ 4. Average grade
+ 5. Top student
+ 6. Search student
+ 7. Remove student
+ 8. Custom analysis (Risk Index)
+ 9. Summary report
+10. Exit
+Choose an option: 
+Sort by 1) Grade  2) Name  3) ID: ID       Name                   Course              Grade
+--------------------------------------------------------
+1005     Esther Mukamana        Web Development     91.00
+1001     Alice Uwase            Math in Machine Learning  88.50
+1011     Kevin Ishimwe          Linear Algebra      81.00
+1009     Irene Uwimana          Web Development     77.50
+1003     Chloe Ingabire         Mobile Dev          72.00
+1010     Jean Bosco Kamanzi     Programming in C    66.00
+1006     Frank Niyonzima        Web Development     63.50
+1013     Mia Uwera              Programming in C    58.00
+1007     Grace Umutoni          Programming in C    55.00
+1012     Linda Keza             Web Development     49.50
+1002     Brian Mugisha          Programming in C    45.00
+1008     Henry Nkurunziza       Software Engineering  39.00
+1004     David Habimana         Linear Algebra      28.50
+Total: 13 students
+
+---------- MENU ----------
+ 1. Add student
+ 2. Display students
+ 3. Sort students
+ 4. Average grade
+ 5. Top student
+ 6. Search student
+ 7. Remove student
+ 8. Custom analysis (Risk Index)
+ 9. Summary report
+10. Exit
+Choose an option: 
+Sort by 1) Grade  2) Name  3) ID: ID       Name                   Course              Grade
+--------------------------------------------------------
+1001     Alice Uwase            Math in Machine Learning  88.50
+1002     Brian Mugisha          Programming in C    45.00
+1003     Chloe Ingabire         Mobile Dev          72.00
+1004     David Habimana         Linear Algebra      28.50
+1005     Esther Mukamana        Web Development     91.00
+1006     Frank Niyonzima        Web Development     63.50
+1007     Grace Umutoni          Programming in C    55.00
+1008     Henry Nkurunziza       Software Engineering  39.00
+1009     Irene Uwimana          Web Development     77.50
+1010     Jean Bosco Kamanzi     Programming in C    66.00
+1011     Kevin Ishimwe          Linear Algebra      81.00
+1012     Linda Keza             Web Development     49.50
+1013     Mia Uwera              Programming in C    58.00
+Total: 13 students
+
+---------- MENU ----------
+ 1. Add student
+ 2. Display students
+ 3. Sort students
+ 4. Average grade
+ 5. Top student
+ 6. Search student
+ 7. Remove student
+ 8. Custom analysis (Risk Index)
+ 9. Summary report
+10. Exit
+Choose an option: 
+Average grade: 62.65
+
+---------- MENU ----------
+ 1. Add student
+ 2. Display students
+ 3. Sort students
+ 4. Average grade
+ 5. Top student
+ 6. Search student
+ 7. Remove student
+ 8. Custom analysis (Risk Index)
+ 9. Summary report
+10. Exit
+Choose an option: 
+Top student:
+ID       Name                   Course              Grade
+--------------------------------------------------------
+1005     Esther Mukamana        Web Development     91.00
+
+---------- MENU ----------
+ 1. Add student
+ 2. Display students
+ 3. Sort students
+ 4. Average grade
+ 5. Top student
+ 6. Search student
+ 7. Remove student
+ 8. Custom analysis (Risk Index)
+ 9. Summary report
+10. Exit
+Choose an option: 
+Search by 1) ID  2) Name: Enter student ID: ID       Name                   Course              Grade
+--------------------------------------------------------
+1005     Esther Mukamana        Web Development     91.00
+
+---------- MENU ----------
+ 1. Add student
+ 2. Display students
+ 3. Sort students
+ 4. Average grade
+ 5. Top student
+ 6. Search student
+ 7. Remove student
+ 8. Custom analysis (Risk Index)
+ 9. Summary report
+10. Exit
+Choose an option: 
+Search by 1) ID  2) Name: Enter full name: ID       Name                   Course              Grade
+--------------------------------------------------------
+1001     Alice Uwase            Math in Machine Learning  88.50
+
+---------- MENU ----------
+ 1. Add student
+ 2. Display students
+ 3. Sort students
+ 4. Average grade
+ 5. Top student
+ 6. Search student
+ 7. Remove student
+ 8. Custom analysis (Risk Index)
+ 9. Summary report
+10. Exit
+Choose an option: 
+Search by 1) ID  2) Name: Enter full name: No student named "xyz".
+
+---------- MENU ----------
+ 1. Add student
+ 2. Display students
+ 3. Sort students
+ 4. Average grade
+ 5. Top student
+ 6. Search student
+ 7. Remove student
+ 8. Custom analysis (Risk Index)
+ 9. Summary report
+10. Exit
+Choose an option: 
+Enter ID of student to remove: Student 1002 removed. The list now holds 12 students.
+
+---------- MENU ----------
+ 1. Add student
+ 2. Display students
+ 3. Sort students
+ 4. Average grade
+ 5. Top student
+ 6. Search student
+ 7. Remove student
+ 8. Custom analysis (Risk Index)
+ 9. Summary report
+10. Exit
+Choose an option: 
+Enter ID of student to remove: No student with ID 9999.
+
+---------- MENU ----------
+ 1. Add student
+ 2. Display students
+ 3. Sort students
+ 4. Average grade
+ 5. Top student
+ 6. Search student
+ 7. Remove student
+ 8. Custom analysis (Risk Index)
+ 9. Summary report
+10. Exit
+Choose an option: 
+ID       Name                   Course              Grade
+--------------------------------------------------------
+1001     Alice Uwase            Math in Machine Learning  88.50
+1003     Chloe Ingabire         Mobile Dev          72.00
+1004     David Habimana         Linear Algebra      28.50
+1005     Esther Mukamana        Web Development     91.00
+1006     Frank Niyonzima        Web Development     63.50
+1007     Grace Umutoni          Programming in C    55.00
+1008     Henry Nkurunziza       Software Engineering  39.00
+1009     Irene Uwimana          Web Development     77.50
+1010     Jean Bosco Kamanzi     Programming in C    66.00
+1011     Kevin Ishimwe          Linear Algebra      81.00
+1012     Linda Keza             Web Development     49.50
+1013     Mia Uwera              Programming in C    58.00
+Total: 12 students
+
+---------- MENU ----------
+ 1. Add student
+ 2. Display students
+ 3. Sort students
+ 4. Average grade
+ 5. Top student
+ 6. Search student
+ 7. Remove student
+ 8. Custom analysis (Risk Index)
+ 9. Summary report
+10. Exit
+Choose an option: 
+Academic Risk Index: ARI = (70 - grade) / 70 x 100  (0 if grade >= 70)
+0 means no risk. The higher the number, the more help the student needs.
+
+ID       Name                    Grade     ARI  Level
+--------------------------------------------------------
+1001     Alice Uwase             88.50    0.00  Safe
+1003     Chloe Ingabire          72.00    0.00  Safe
+1004     David Habimana          28.50   59.29  Critical
+1005     Esther Mukamana         91.00    0.00  Safe
+1006     Frank Niyonzima         63.50    9.29  Watch
+1007     Grace Umutoni           55.00   21.43  Watch
+1008     Henry Nkurunziza        39.00   44.29  At Risk
+1009     Irene Uwimana           77.50    0.00  Safe
+1010     Jean Bosco Kamanzi      66.00    5.71  Watch
+1011     Kevin Ishimwe           81.00    0.00  Safe
+1012     Linda Keza              49.50   29.29  At Risk
+1013     Mia Uwera               58.00   17.14  Watch
+
+Safe: 5 | Watch: 4 | At Risk: 2 | Critical: 1
+Class Risk Index (average ARI): 15.54
+Students who need help (At Risk + Critical): 3 of 12
+
+---------- MENU ----------
+ 1. Add student
+ 2. Display students
+ 3. Sort students
+ 4. Average grade
+ 5. Top student
+ 6. Search student
+ 7. Remove student
+ 8. Custom analysis (Risk Index)
+ 9. Summary report
+10. Exit
+Choose an option: 
+========== SUMMARY REPORT ==========
+Total students      : 12
+Average grade       : 64.12
+Highest grade       : 91.00
+Lowest grade        : 28.50
+Passed (>= 50)      : 9
+Below 50            : 3
+--- Academic Risk Index ---
+Safe: 5 | Watch: 4 | At Risk: 2 | Critical: 1
+Class Risk Index (average ARI): 15.54
+Students who need help (At Risk + Critical): 3 of 12
+====================================
+
+---------- MENU ----------
+ 1. Add student
+ 2. Display students
+ 3. Sort students
+ 4. Average grade
+ 5. Top student
+ 6. Search student
+ 7. Remove student
+ 8. Custom analysis (Risk Index)
+ 9. Summary report
+10. Exit
+Choose an option:   Invalid input. Enter a whole number from 1 to 10.
+Choose an option: Memory freed. Goodbye!
